@@ -1,0 +1,16 @@
+.App {
+  display: flex;
+  flex-direction: row;
+}
+
+.App section {
+  padding: 40px;
+}
+
+.add {
+  margin-right: 50px;
+}
+
+.searchField {
+  width: 400px;
+}
