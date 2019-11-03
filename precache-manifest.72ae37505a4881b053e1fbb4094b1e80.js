@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a20aeb1f44f09b4f487178d771d8680",
+    "revision": "dadd3a172c9ec2e12df1a68600eac217",
     "url": "/goit-contacts/index.html"
   },
   {
-    "revision": "9902d6f08a0cf162f266",
+    "revision": "7899c68ee2cd9808447d",
     "url": "/goit-contacts/static/css/main.53e04405.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/goit-contacts/static/js/2.b1b26279.chunk.js"
   },
   {
-    "revision": "9902d6f08a0cf162f266",
-    "url": "/goit-contacts/static/js/main.0a794147.chunk.js"
+    "revision": "7899c68ee2cd9808447d",
+    "url": "/goit-contacts/static/js/main.2b4fcaed.chunk.js"
   },
   {
     "revision": "9354a654de3528c6419e",
