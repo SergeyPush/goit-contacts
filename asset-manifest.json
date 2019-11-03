@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/goit-contacts/static/css/main.53e04405.chunk.css",
+    "main.js": "/goit-contacts/static/js/main.0a794147.chunk.js",
+    "main.js.map": "/goit-contacts/static/js/main.0a794147.chunk.js.map",
+    "runtime-main.js": "/goit-contacts/static/js/runtime-main.8de3c2ac.js",
+    "runtime-main.js.map": "/goit-contacts/static/js/runtime-main.8de3c2ac.js.map",
+    "static/js/2.b1b26279.chunk.js": "/goit-contacts/static/js/2.b1b26279.chunk.js",
+    "static/js/2.b1b26279.chunk.js.map": "/goit-contacts/static/js/2.b1b26279.chunk.js.map",
+    "index.html": "/goit-contacts/index.html",
+    "precache-manifest.faceade547b5c80ef09a67d9c47b3128.js": "/goit-contacts/precache-manifest.faceade547b5c80ef09a67d9c47b3128.js",
+    "service-worker.js": "/goit-contacts/service-worker.js",
+    "static/css/main.53e04405.chunk.css.map": "/goit-contacts/static/css/main.53e04405.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8de3c2ac.js",
+    "static/js/2.b1b26279.chunk.js",
+    "static/css/main.53e04405.chunk.css",
+    "static/js/main.0a794147.chunk.js"
+  ]
+}
