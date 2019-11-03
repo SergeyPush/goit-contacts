@@ -70,7 +70,7 @@ class App extends Component {
 
   render() {
     const filteredContacts = this.state.contacts.filter(contact =>
-      contact.name.toLowerCase().includes(this.state.filter)
+      contact.name.toLowerCase().includes(this.state.filter.toLowerCase())
     );
     return (
       <Container>
